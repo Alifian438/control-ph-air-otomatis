@@ -3,7 +3,7 @@ CTBot myBot;
 
 String ssid = "Dreamer";     // Sesuikan dengan nama wifi anda
 String pass = "11111111"; // sesuaikan password wifi
-String token = "5037310989:AAH767-xgVBIQa3lP3NXcVdXU7bo1eZ-2fE"; // token bot telegram yang telah dibuat
+String token = ""; // token bot telegram yang telah dibuat
 
 String data;
 char c;
